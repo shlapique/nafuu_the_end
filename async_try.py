@@ -17,7 +17,7 @@ startFlag = 0
 abort = 0
 
 # Указываем токен
-token = "1625904665:AAH7lA2qrv-tKvNfsB1iq_MrSy7OabgLR74"
+token = "TOKEN"
 bot = telebot.AsyncTeleBot(token)
 
 dir_path = os.path.join('C:\\', 'Nafuu_parser_bot')
