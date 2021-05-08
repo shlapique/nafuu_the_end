@@ -1,0 +1,9 @@
+СБОЙ ПОДКЛЮЧЕНИЯ!
+('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+Пробую реконнект...
+СБОЙ ПОДКЛЮЧЕНИЯ!
+HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot1625904665:AAH7lA2qrv-tKvNfsB1iq_MrSy7OabgLR74/getUpdates?offset=223369163&timeout=20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000025DE6046A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+Пробую реконнект...
+СБОЙ ПОДКЛЮЧЕНИЯ!
+('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+Пробую реконнект...
